@@ -31,7 +31,7 @@
 .innersec{
     display: flex;
     flex-direction: column;
-    background-color: wheat;
+    background: linear-gradient(to bottom right, rgb(250, 206, 125), rgb(247, 222, 175),rgb(247, 207, 133));
     margin: auto;
     width: 55%;
     padding: 20px 0px;
